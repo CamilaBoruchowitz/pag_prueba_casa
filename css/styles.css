@@ -1,0 +1,129 @@
+
+nav{
+    margin-bottom: 20px;
+}
+h1{
+    color: #08A6E4;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+}
+
+ul{
+    list-style: none;
+}
+.ul1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 3.28px;
+    text-transform: uppercase; 
+    display:flex;
+    flex-direction: row;
+    float: right;
+    margin-right: 300px;/*no se como mierda ponerlo*/
+}
+
+
+.ul2{
+    width: 176px;
+    height: 48px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #A5A5A5;
+}
+
+h2.unoh2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 57px;
+    text-align: center;
+    margin-left: 50%;
+}
+
+h2.dosh2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+button.boton1{
+    position: absolute;
+    width: 300px;
+    height: 67px;
+    background: #08A6E4;
+    box-shadow: 5px 10px 14px rgba(7, 172, 230, 0.29);
+    border-radius: 40px; /*que seria?*/
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: white;
+}
+
+button{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+button.boton2{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #EB476E;
+    border-radius: 23px;
+}
+
+button.boton3{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #07ACE6;
+    border-radius: 23px;
+}
+
+button.boton4{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #55DFB4;
+    border-radius: 23px;
+}
+
+button.boton5{
+    position: absolute;
+    width: 226px;
+    height: 57px;
+    background: #08A6E4;
+    box-shadow: 5px 10px 14px rgba(7, 172, 230, 0.29);
+    border-radius: 35px;
+}
+p{
+    text-align: center;
+    margin-left: 10%;
+}
+/*como el div tiene que estar centrado pensaba poner text-algin center pero no*/
+.divform{
+    margin: 20px;
+    padding: 25px;
+}
+footer{
+    margin-top: 20px;
+}
